@@ -6,8 +6,8 @@ This week's challenge allows us to utilize our Third-Party API skills to work wi
 
 See below for the direct link to the live page:
 
-[Live Link to Deployed Application](INSERT)
+[Live Link to Deployed Application](https://linhntran.github.io/work-day-scheduler/)
 
 The following image demonstrates what the web application looks like once the user navigates to the live page. 
 
-![A preview of homepage.](INSERT)
+![A preview of homepage.](./assets/images/preview.png)
