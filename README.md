@@ -10,4 +10,4 @@ See below for the direct link to the live page:
 
 The following image demonstrates what the web application looks like once the user navigates to the live page. 
 
-![A preview of homepage.](./assets/images/preview.png)
+![A preview of homepage.](./assets/images/preview.gif)
